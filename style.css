@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.account-selection, .interaction, .operations {
+    margin: 20px;
+}
+
+button {
+    margin: 10px;
+}
+
+input {
+    margin: 10px;
+}
